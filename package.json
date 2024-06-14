@@ -1,0 +1,15 @@
+{
+  "name": "cipher-project",
+  "version": "1.0.0",
+  "description": "This application allows users to encrypt and decrypt text using the Caesar Cipher technique. Users can enter plaintext and a numeric key to generate encrypted text, and vice versa.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
