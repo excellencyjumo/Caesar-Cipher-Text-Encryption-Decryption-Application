@@ -27,7 +27,7 @@ This application allows users to encrypt and decrypt text using the Caesar Ciphe
 
 ### Testing from Deployed Link
 
-1. Open the deployed application link: [Caesar Cipher Text Encryption/Decryption Application]([https://caesar-cipher-text-encryption-decryption.onrender.com])
+1. Open the deployed application link: [Caesar Cipher Text Encryption/Decryption Application](https://caesar-cipher-text-encryption-decryption.onrender.com)
 2. Enter the plaintext you want to encrypt or the cipher text you want to decrypt in the "Plaintext" input field.
 3. Enter the key (a number) in the "Key" input field.
 4. Click the "Encrypt" button to encrypt the plaintext or the "Decrypt" button to decrypt the cipher text.
